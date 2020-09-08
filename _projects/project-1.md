@@ -4,4 +4,11 @@ excerpt: "Short description of projects"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Project 1
+* Time Series Analysis, University of Utah, UT
+    * Analyzed the stock market price data of 100+ S&P 500 companies
+    * Built a prediction model to predict stock price based on a Hidden Markov Model
+
+
+
+Is this visible?

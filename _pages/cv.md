@@ -85,5 +85,4 @@ Theoretical Machine Learning, Differential Goemetry, Probablistic Modeling
 
 * ICML 2020, Women in Machine Learning (WiML) @ICML 2020
 * Women in Machine Learning (WiML) NeurIPS 2019
-* Disha
-  * outreach co-ordinator and volunteer for Spread the smile, a science based outreach program hosted by Disha, IISER Pune, 2013-2014
+* Disha - outreach co-ordinator and volunteer for Spread the smile, a science based outreach program hosted by Disha, IISER Pune, 2013-2014
