@@ -2,7 +2,7 @@
 title: "Greedy Sampling for Approximate Clustering in the
 Presence of Outliers"
 collection: publications
-permalink: Clustering_neurips.md
+permalink: publication/Clustering_neurips
 excerpt: 
 date: 
 venue: 'NeurIPS 2019'
