@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-Education
-======
+##### Education
 * Integrated B.S. - M.S Indian Institute of Science Education and Research (ISER), Pune
   * Major in Theoretical Physics and minor in Mathematics
   * Thesis : A study on five dimensional black holes
@@ -67,9 +66,8 @@ Interests
 Theoretical Machine Learning, Differential Goemetry, Probablistic Modeling
 
 
-Relevant Coursework
-=====
-RELEVANT COURSEWORK
+##### Relevant Coursework
+
 * Probabilistic Modeling 
 * Data Mining 
 * Deep Learning 
