@@ -2,6 +2,7 @@
 title: "Almost-Global Exponential Tracking of a Variable Pitch Quadcopter on SE(3)"
 collection: publications
 permalink: /publication/2017-07-08-paper-title-number-2
+excerpt: ' Design a trajectory tracking control for a variable pitch quadrotor. It is shown to almost globally stablize tracking error at an Exponential rate'
 date: 2017-07-08
 venue: 'World Congress of the International Federation of Automatic Control (IFAC), 2017'
 paperurl: 'http://Sharvaree.github.io/files/IFAC.pdf'

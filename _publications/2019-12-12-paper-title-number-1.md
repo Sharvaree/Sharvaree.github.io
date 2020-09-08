@@ -2,7 +2,13 @@
 title: "Greedy Sampling for Approximate Clustering in the Presence of Outliers"
 collection: publications
 permalink: /publication/2019-12-12-paper-title-number-1
-excerpt: 'Greedy algorithms such as adaptive sampling (k-means++) and furthest point
+excerpt: 'A variation of K-means++ and K_center algorithm which performs better than the original in presence of outliers'
+date: 2019-12-12
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
+paperurl: 'http://Sharvaree.github.io/files/Clustering_neurips.pdf'
+---
+
+Greedy algorithms such as adaptive sampling (k-means++) and furthest point
 traversal are popular choices for clustering problems. One the one hand, they
 possess good theoretical approximation guarantees, and on the other, they are fast
 and easy to implement. However, one main issue with these algorithms is the
@@ -13,11 +19,4 @@ instance, in the case of k-means++, we show that a simple thresholding operation
 on the distances suffices to obtain an O(log k) approximation to the objective.
 We obtain similar results for the simpler k-center problem. Finally, we show
 experimentally that our algorithms are easy to implement and scale well. We also
-measure their ability to identify noisy points added to a dataset.'
-date: 2019-12-12
-venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
-paperurl: 'http://Sharvaree.github.io/files/Clustering_neurips.pdf'
----
-
-
-
+measure their ability to identify noisy points added to a dataset.
