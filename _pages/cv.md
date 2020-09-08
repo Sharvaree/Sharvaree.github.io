@@ -15,27 +15,37 @@ Education
 * M.S. University of Utah, Salt Lake City, UT
 
 
-Work experience
+Research experience
 ======
-* Summer 201: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - April 2020: Research Assistant, University of Utah, UT
+  * Supervisor: Dr. Hari Sundar
+  * Worked on designing an apparent event horizon solver for Schwarzschild Blackhole and solving Einstein's        equation on a discretized sphere and used an adaptive grid to reduce computation time.
+  * Worked on High Performance Computing clusters and extensively coded in C++ using Message Passing Interfae (MPI)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018 - April 2019: Research Assistant, University of Utah, UT
+  * Supervisor: Dr. Aditya Bhaskara
+  * Developed an approximation algorithm, a variant of K-means and K-center algorithm, which is robust in
+ presence of outliers.
+  * Gave theoretical guarantees on the results along with experimental evidence (Python) of robustness.
+
+* August 2016 - April 2017: Research Assistant, Indian Institute of Science (IISc), Bangalore
+  * Supervisor: Dr. Soumyendu Raha
+  * Designed and implemented geometric control for a Variable pitch Quadcopter with rotor failure.
+  * Developed and implemented stable orbit estimation using Kalman filter and extended Kalman filter.
   
 Skills
 ======
 * Machine Learning, Statistical Analysis, Geometry
 * Programming
-  * Python
+  * Python (pytorch, tensorflow, sklearn, pandas)
   * C++
   * R
   * SQL
-
+  * MATLAB
+  * MPI/OpenMP
+  * Tableau 
+  * JavaScript (D3) 
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -46,9 +56,12 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* January 2018 - May 2018/August 2018 - December 2018: Teaching Assistant, University of Utah, UT
+  * Course co-ordinator : Dr. Debra Mascaro
+  * Led and coached a batch of 80 students and helped them design an Arduino- controlled robot.
+  * Conducted hands-on lab sessions using C and MATLAB integrated with Arduino IDE to program
+robots.
   
 Volunteering
 ======
