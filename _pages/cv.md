@@ -18,7 +18,7 @@ redirect_from:
   * Master's project : Greedy approximation algorithms for clustering. 
 
 
-## Research experience
+### Research experience
 
 * August 2019 - April 2020: Research Assistant, University of Utah, UT
   * Supervisor: Dr. Hari Sundar
@@ -37,8 +37,8 @@ redirect_from:
   * Developed and implemented stable orbit estimation using Kalman filter and extended Kalman filter.
   
 
-Teaching
-======
+### Teaching
+
 
 * January 2018 - May 2018/August 2018 - December 2018: Teaching Assistant, University of Utah, UT
   * Course co-ordinator : Dr. Debra Mascaro
@@ -47,8 +47,8 @@ Teaching
 robots.
 
 
-Skills
-======
+### Skills
+
 * Machine Learning, Statistical Analysis, Geometry
 * Programming
   * Python (pytorch, tensorflow, sklearn, pandas)
@@ -61,8 +61,8 @@ Skills
   * JavaScript (D3) 
   
 
-Interests
-======
+### Interests
+
 Theoretical Machine Learning, Differential Goemetry, Probablistic Modeling
 
 
@@ -81,8 +81,8 @@ Theoretical Machine Learning, Differential Goemetry, Probablistic Modeling
 * Quantum Field Theory
 
 
-Volunteering
-======
+### Volunteering
+
 * ICML 2020, Women in Machine Learning (WiML) @ICML 2020
 * Women in Machine Learning (WiML) NeurIPS 2019
 * Disha
