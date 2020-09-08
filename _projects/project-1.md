@@ -1,5 +1,5 @@
 ---
-title: "Projects-1"
+title: "1"
 collection : projects
 excerpt: "Short description of projects"
 collection: projects
