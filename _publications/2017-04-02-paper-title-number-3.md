@@ -7,6 +7,3 @@ date: 2017-04-02
 venue: 'arxiv'
 paperurl: 'http://Sharvaree.github.io/files/17-2.pdf'
 ---
-
-
-[Download paper here](http://Sharvaree.github.io/files/17-2.pdf)

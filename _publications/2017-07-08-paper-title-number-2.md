@@ -8,6 +8,3 @@ venue: 'World Congress of the International Federation of Automatic Control (IFA
 paperurl: 'http://Sharvaree.github.io/files/IFAC.pdf'
 ---
 
-
-[Download paper here](http://Sharvaree.github.io/files/IFAC.pdf)
-

@@ -8,5 +8,3 @@ venue: 'as part of degree completion at IISER Pune'
 paperurl: 'http://Sharvaree.github.io/files/thesis-Sharvaree.pdf'
 ---
 
-
-[Download paper here](http://Sharvaree.github.io/files/thesis-Sharvaree.pdf)
