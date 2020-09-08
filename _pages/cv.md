@@ -18,8 +18,8 @@ redirect_from:
   * Master's project : Greedy approximation algorithms for clustering. 
 
 
-Research experience
-======
+## Research experience
+
 * August 2019 - April 2020: Research Assistant, University of Utah, UT
   * Supervisor: Dr. Hari Sundar
   * Worked on designing an apparent event horizon solver for Schwarzschild Blackhole and solving Einstein's        equation on a discretized sphere and used an adaptive grid to reduce computation time.
