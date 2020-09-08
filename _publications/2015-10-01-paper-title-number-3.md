@@ -1,12 +1,12 @@
 ---
-title: "Geometric Control"
+title: "A Geometric Approach to Rotor Failure Tolerant Trajectory Tracking Control Design for a Quadrotor"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'IFAC 2017'
-paperurl: 'http://Sharvaree.github.io/files/IFAC.pdf'
+abstract: 'This paper geometric control'
+date: 2017-04-02
+venue: 'arxiv'
+paperurl: 'http://Sharvaree.github.io/files/17-2.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://Sharvaree.github.io/files/IFAC.pdf)
+
+[Download paper here](http://Sharvaree.github.io/files/17-2.pdf)

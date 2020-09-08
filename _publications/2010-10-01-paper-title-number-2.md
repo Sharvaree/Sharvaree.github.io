@@ -1,13 +1,13 @@
 ---
-title: "IFAC"
+title: "Almost-Global Exponential Tracking of a Variable Pitch Quadcopter on SE(3)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+abstract: 'This is a geometric control paper'
+date: 2017-07-08
+venue: 'World Congress of the International Federation of Automatic Control (IFAC), 2017'
 paperurl: 'http://Sharvaree.github.io/files/IFAC.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Download paper here](http://Sharvaree.github.io/files/IFAC.pdf)
 
