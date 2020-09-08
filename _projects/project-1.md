@@ -1,7 +1,9 @@
 ---
-title: "Projects"
+title: "Projects-1"
+collection : projects
 excerpt: "Short description of projects"
 collection: projects
+permalink: /projects/project-1
 ---
 
 Project 1
