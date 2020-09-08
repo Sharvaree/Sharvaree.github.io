@@ -1,8 +1,18 @@
 ---
 title: "Almost-Global Exponential Tracking of a Variable Pitch Quadcopter on SE(3)"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This is a geometric control paper'
+permalink: /publication/2017-07-08-paper-title-number-2
+excerpt: 'This paper presents a coordinate-free trajectory tracking control design for the
+nonlinear dynamics of a variable pitch quadrotor. Unlike conventional quadrotors, the rotor
+thrust is varied by changing its blade pitch angle as opposed to its RPM. It has been shown
+that such an actuation mechanism has a very high control bandwidth and is capable of producing
+negative thrust, which facilitates aggressive trajectory tracking. However, the control allocation
+in the actuator for generating the commanded thrust and torque is not a static, linear relation,
+but is nonlinear and dynamic. Further, transient disturbances are present due to rapid variations
+in aerodynamic load on the rotor dynamics while varying the blade pitch angle. The proposed
+control law consists of a robust attitude controller augmented with a saturated thrust-feedback
+position controller. The control law is shown to almost-globally stabilize the tracking errors on
+SE(3) at an exponential rate'
 date: 2017-07-08
 venue: 'World Congress of the International Federation of Automatic Control (IFAC), 2017'
 paperurl: 'http://Sharvaree.github.io/files/IFAC.pdf'
