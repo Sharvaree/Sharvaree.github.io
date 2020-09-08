@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Int B.S. - M.S Indian Institute of Science Education and Research (ISER) , Pune
+* Integrated B.S. - M.S Indian Institute of Science Education and Research (ISER), Pune
+  * Major in Theoretical Physics and minor in Mathematics
+  * Thesis : A study on five dimensional black holes
 * M.S. University of Utah, Salt Lake City, UT
+  * with focus in Machine Learning 
+  * Master's project : Greedy approximation algorithms for clustering. 
 
 
 Research experience
@@ -33,6 +37,17 @@ Research experience
   * Designed and implemented geometric control for a Variable pitch Quadcopter with rotor failure.
   * Developed and implemented stable orbit estimation using Kalman filter and extended Kalman filter.
   
+
+Teaching
+======
+
+* January 2018 - May 2018/August 2018 - December 2018: Teaching Assistant, University of Utah, UT
+  * Course co-ordinator : Dr. Debra Mascaro
+  * Led and coached a batch of 80 students and helped them design an Arduino- controlled robot.
+  * Conducted hands-on lab sessions using C and MATLAB integrated with Arduino IDE to program
+robots.
+
+
 Skills
 ======
 * Machine Learning, Statistical Analysis, Geometry
@@ -46,24 +61,31 @@ Skills
   * Tableau 
   * JavaScript (D3) 
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
-  
-Teaching
+Interests
 ======
+Theoretical Machine Learning, Differential Goemetry, Probablistic Modeling
 
-* January 2018 - May 2018/August 2018 - December 2018: Teaching Assistant, University of Utah, UT
-  * Course co-ordinator : Dr. Debra Mascaro
-  * Led and coached a batch of 80 students and helped them design an Arduino- controlled robot.
-  * Conducted hands-on lab sessions using C and MATLAB integrated with Arduino IDE to program
-robots.
-  
+
+Relevant Coursework
+=====
+RELEVANT COURSEWORK
+* Probabilistic Modeling 
+* Data Mining 
+* Deep Learning 
+* Advanced Data Visualization
+* Advanced Algorithms 
+* Graph Theory
+* Game Theory 
+* Computational Topology
+* Group Theory
+* Statistical Physics
+* Quantum Field Theory
+
+
 Volunteering
 ======
-* ICML 2020, WiML @ICML 2020
-* WiML NeurIPS 2019
+* ICML 2020, Women in Machine Learning (WiML) @ICML 2020
+* Women in Machine Learning (WiML) NeurIPS 2019
+* Disha
+  * outreach co-ordinator and volunteer for Spread the smile, a science based outreach program hosted by Disha, IISER Pune, 2013-2014
