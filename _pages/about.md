@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from University of Utah. Prior to that I received integrated BS-MS in Theoretical Physics and Mathematics from IISER Pune.
+I recently graduated from University of Utah with a M.S. in Computer Science with focus in Machine Learning and Data Science. In my free time, you can find me hiking. I am trained in Kathak, an Indian Classical dance form and a amateur yogi. I love cooking and drinking hibiscus tea. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
