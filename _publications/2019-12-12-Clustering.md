@@ -1,7 +1,7 @@
 ---
 title: "Greedy Sampling for Approximate Clustering in the Presence of Outliers"
 collection: publications
-permalink: /publication/2019-12-12-paper-title-number-1
+permalink: /publication/2019-12-12-Clustering
 excerpt: 'A variation of k-means++ and k-center algorithm which performs better than the original in presence of outliers'
 date: 2019-12-12
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
