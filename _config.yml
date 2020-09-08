@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Sharvaree Vadgama"
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   bio              : "On one fine snowy day in Salt Lake City, Utah"
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=gfRkDXEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
