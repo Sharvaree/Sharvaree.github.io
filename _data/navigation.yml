@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "New"
-    url: /new/    
+  - title: "What's new"
+    url: /Currently/    
     
   - title: "Projects"
     url: /projects/
